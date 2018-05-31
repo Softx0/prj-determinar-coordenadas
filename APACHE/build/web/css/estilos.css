@@ -1,0 +1,90 @@
+/* 
+    Created on : 15-may-2018, 22:57:29
+    Author     : Emmanuel
+*/
+body{
+    line-height: 1.4em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 19px;
+    color: #669; 
+    margin: 0 auto;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#jumbo{
+    margin-top: -40px;
+}
+
+#one-column-emphasis{
+    margin-left:425px;
+    margin-top: -40px;
+    width: 480px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#one-column-emphasis caption{
+    font-size: 20px;
+    text-align: center;
+}
+
+#one-column-emphasis th{
+    font-size: 10px;
+    font-weight: normal;
+    padding: 12px 15px;
+    color: #039;
+}
+
+#one-column-emphasis td{
+    font-size: 20px;
+    padding: 10px 15px;
+    color: #669;
+    border-top: 1px solid #e8edff;
+
+}
+
+.oce-first{
+    font-size: 10px;
+    background: #d0dafd;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+
+}
+#one-column-emphasis tr:hover td {
+    background: #eff2ff;
+    color: #669;
+}
+
+#map1 {
+    height: 70%;
+    width: 70%;
+    margin-left:225px;
+}
+#map2 {
+    height: 70%;
+    width: 70%;
+    margin-left:225px;
+}
+#buttons{
+    text-align: center;
+}
+#btnTrue{
+    margin-left: 100px;
+}
+#btnFalse{
+    margin-left: 100px;
+}
+#TitleF{
+    margin-left:355px;
+}
+#TitleV{
+    margin-left:355px;
+}
