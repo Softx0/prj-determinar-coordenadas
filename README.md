@@ -12,12 +12,12 @@ If you want to contribute to the application as a contributor to the project, ma
 ## Installing
 
 Just clone the proyect and run it with NetBeansIDE 8.2.
-  ### Using JSF Java Server Faces for presentation
-  ### Using EJB's for container and the simplicity when using how controller.
-  ### Using Boostrap4 for styles.
-  ### Using APACHE TOMCAT 9.0 for Server Applications
-  ### Using API Apache POI for read the Excel (and We can be read, write and modificate Office documents and Google documents).
-  ### Using API Google Maps for presentation of Maps.
+  * Using JSF Java Server Faces for presentation
+  * Using EJB's for container and the simplicity when using how controller.
+  * Using Boostrap4 for styles.
+  * Using APACHE TOMCAT 9.0 for Server Applications
+  * Using API Apache POI for read the Excel (and We can be read, write and modificate Office documents and Google documents).
+  * Using API Google Maps for presentation of Maps.
 
 ## Built With
 
